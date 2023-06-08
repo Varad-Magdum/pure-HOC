@@ -1,0 +1,41 @@
+body{
+  height: 1000px;
+  width: 100%;
+  background: linear-gradient(to right,white,cyan,white);
+}
+button{
+  height: 50px;
+  width: 150px;
+  border: 2px solid blue;
+  margin: 50px;
+  background-color: white;
+  border-radius: 30px;
+  font-size: 20px;
+  color: red;
+}
+.nav{
+  display: flex;
+  justify-content: space-around;
+  /* text-decoration: none; */
+}
+.hoc{
+  /* margin: 400px; */
+  margin-top: 200px;
+  /* margin-left: 550px; */
+  text-align: center;
+
+
+}
+.count{
+  /* margin: 400px; */
+  margin-top: 200px;
+    /* margin-left: 550px; */
+    text-align: center;
+}
+.navlink{
+  margin-top: 50px;
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: bolder;
+  color: rgb(198, 34, 231);
+}
